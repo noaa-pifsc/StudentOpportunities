@@ -37,9 +37,9 @@ $('#button').click(function(){
 Mission - goals
 
 
-<div style="float: left">[Click here to join the MARVLS email list](https://docs.google.com/spreadsheets/d/1SaHmhj6l6d6JybSbwJNL1zyfqPBK0upNVHZ_64Bf3TI/edit#gid=0)</div> 
+<div style="float: left">[Click here to be added to the list of students currently at PIFSC]()</div> 
 </div>
-<div style="float: right">[Add MARVLS Calendar](https://calendar.google.com/calendar/u/0?cid=Y19mbGJnaTAybGI5ajV2Y2VnZ3ZkN2txMG03a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+<div style="float: right">[Add PIFSC Student Events Calendar]()
 </div>
 
 <p></p>
