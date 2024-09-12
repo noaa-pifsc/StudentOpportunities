@@ -53,8 +53,8 @@ Mission - goals
 
 
 For questions or to sign up for activities email xxxx@noaa.gov.
-<!--- Just an idea: we could have people create an issue to be added. ---!>
-<!--- Or give them the option to create an issue? ---!>
+<!-- Just an idea: we could have people create an issue to be added. -->
+<!-- Or give them the option to create an issue? -->
 
       
 </div>  
