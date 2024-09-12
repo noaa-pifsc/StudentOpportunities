@@ -47,5 +47,5 @@ Mission - goals
 
 <hr>
 
-For questions or to sign up for activities email us at [pifsc.pyso@noaa.gov](pifsc.pyso@noaa.gov)
+For questions or to sign up for activities email us at [pifsc.pyso@noaa.gov](mailto:pifsc.pyso@noaa.gov)
 or [create an issue](https://github.com/noaa-pifsc/StudentOpportunities/issues).
