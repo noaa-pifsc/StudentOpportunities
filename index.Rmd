@@ -32,36 +32,20 @@ $('#button').click(function(){
 </style>
 
 <div>
-## Student Opportunities at NOAA Pacific Islands
+## Student Opportunities at NOAA Pacific Islands Fisheries Science Center
 
 Mission - goals
 
-<!-- the alignment here is funky.  still working on fixing it.... -->
-<div style="float: left">[Add yourself to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)</div> 
-<p></p>
-<div style="float: left">[PIFSC Student Events Calendar]()
-</div>
+[Add yourself to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)
 
-<p></p>
-<br/>
 <hr>
-
 ## Upcoming Student Opportunites/Events 
 
 * **Coming Soon**
-        
 
+[PIFSC Student Events Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
-For questions or to sign up for activities email xxxx@noaa.gov.
-<!-- Just an idea: we could have people create an issue to be added. -->
-<!-- Or give them the option to create an issue? -->
+<hr>
 
-      
-</div>  
-
-<br/><br/>
-
-
-
-
-
+For questions or to sign up for activities email us at [pifsc.pyso@noaa.gov](pifsc.pyso@noaa.gov)
+or [create an issue](https://github.com/noaa-pifsc/StudentOpportunities/issues).
