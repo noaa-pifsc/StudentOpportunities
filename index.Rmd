@@ -36,10 +36,11 @@ $('#button').click(function(){
 
 Mission - goals
 
-
-<div style="float: left">[Click here to be added to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)</div> 
+<!-- the alignment here is funky.  still working on fixing it.... -->
+<div style="float: left">[Add yourself to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)</div> 
 </div>
-<div style="float: right">[Add PIFSC Student Events Calendar]()
+<p></p>
+<div style="float: left">[PIFSC Student Events Calendar]()
 </div>
 
 <p></p>
