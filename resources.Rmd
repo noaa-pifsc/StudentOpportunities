@@ -15,7 +15,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ##  Coming Soon 
 
-
+Possible resources:  
+* List of Student Opportunities Committee members, as people students can reach 
+out to for information  
+* Maybe a way to request a resource?
 
 
   
