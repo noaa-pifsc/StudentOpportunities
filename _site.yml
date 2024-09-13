@@ -7,7 +7,7 @@ output_dir: "docs"
 base_url: https://github.com/noaa-pifsc/StudentOpportunities
 navbar:
   logo: 
-    image: images/MARVLS_logo.png
+    image: images/Hokuala_logo.jpg
   search: false
   right:
     - text: "Upcoming events"

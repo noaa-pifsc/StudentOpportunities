@@ -1,7 +1,7 @@
 ---
 title: "Events and Resources"
 favicon: favicon.ico
-image: "images/MARVLS_logo.png"
+image: "images/Hokuala_logo.jpg"
 output:
   postcards::trestles
 site: distill::distill_website
