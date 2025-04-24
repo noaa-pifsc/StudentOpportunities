@@ -1,5 +1,7 @@
 ---
 title: "Resources"
+favicon: favicon.ico
+image: "images/Hokuala_logo.jpg"
 description: |
   Student Resources
 output:
