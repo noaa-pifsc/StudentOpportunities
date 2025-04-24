@@ -1,5 +1,7 @@
 ---
 title: "Highlights"
+favicon: favicon.ico
+image: "images/Hokuala_logo.jpg"
 
 ---
 # Quotes or surveys photos from past cohorts
