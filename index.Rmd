@@ -31,17 +31,17 @@ $('#button').click(function(){
 }
 </style>
 
-<div>
 ## Student Opportunities at NOAA Pacific Islands Fisheries Science Center
 
 Mission - goals
 
 [Add yourself to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)
-
+(internal to NOAA)
 <hr>
 ## Upcoming Student Opportunites/Events 
 
-* **Coming Soon**
+* **Meet and Greet Mixer:** Thursday, 29 May, 12pm, In-person, room 1564  
+* **IRC Building Tour:** Thursday, 29 May, 1pm, In-person, starts at Science on a Sphere  
 
 [PIFSC Student Events Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
