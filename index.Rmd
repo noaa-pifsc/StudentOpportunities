@@ -1,5 +1,5 @@
 ---
-title: "Events and Resources"
+title: "Events and Opportunities"
 favicon: favicon.ico
 image: "images/Hokuala_logo.jpg"
 output:
@@ -7,45 +7,31 @@ output:
 site: distill::distill_website
 ---
 
-<script>
-$('#button').click(function(){
-    $('#wrapper').toggle();
-});  
-</script>
-<style>
-#wrapper {
-  display:none
-} 
-.button {
-  background-color: #4CAF50;
-  border-radius: 12px;
-  border: none;
-  color: white;
-  padding: 10px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
-</style>
-
 ## Student Opportunities at NOAA Pacific Islands Fisheries Science Center
 
-Mission - goals
+We’re committed to providing rewarding student opportunities and to expanding 
+engagement of both undergraduate and graduate experiences at PIFSC _-PIFSC 
+Student Opportunities Committee_
 
 [Add yourself to the list of students currently at PIFSC](https://docs.google.com/spreadsheets/d/1Ki91FEhA06jYTgf1UhyDp1M1mjfH6cQlDGsMWSgbmuU/edit?usp=sharing)
 (internal to NOAA)
-<hr>
+
+---
+
 ## Upcoming Student Opportunites/Events 
+##### May  
 
 * **Meet and Greet Mixer:** Thursday, 29 May, 12pm, In-person, room 1564  
 * **IRC Building Tour:** Thursday, 29 May, 1pm, In-person, starts at Science on a Sphere  
+* _tentative_ **NOAA Ship _Okeanos Explorer_ Tour:** Thursday, 29 May, 2:30pm, In-person, starts in IRC Cafeteria
 
-[PIFSC Student Events Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
+##### June  
 
-<hr>
+* **Lunchtime Meet and Greet:** Thursday, 5 June, 12pm, 3rd floor lanai  
+* **Meet and Greet Mixer:** Thursday, 12 June, 2pm, Online event (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)  
+* and more! See the [PIFSC Student Events Calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for additional summer 2025 events
+
+---
 
 For questions or to sign up for activities email us at [pifsc.pyso@noaa.gov](mailto:pifsc.pyso@noaa.gov)
 or [create an issue](https://github.com/noaa-pifsc/StudentOpportunities/issues).
