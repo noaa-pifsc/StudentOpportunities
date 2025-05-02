@@ -14,15 +14,16 @@
 /* Font options: Sanchez (headers / serif), Nunito Sans (body / sans-serif) */
 @import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;700&display=swap');
 
 /* Code font (Roboto Mono) */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;700&display=swap');
 
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
   --title-weight:    400;
+  --bold-weight:     700;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -59,6 +60,7 @@ d-byline {
 
 body {
     font-family: "Nunito Sans";
+    bold-weight: 700;
 }
 
 /* --------------Navbar-------------------- */
