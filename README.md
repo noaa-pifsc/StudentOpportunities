@@ -1,6 +1,7 @@
 # StudentOpportunities
-This repository will host a GitHub page for students working with PIFSC and their mentors.  
-At the moment, it's under construction.  Check back soon(ish)!
+This repository hosts a GitHub page for students working with PIFSC and their mentors.  
+If there's content you'd like to see added or changed, please [open an issue](https://github.com/noaa-pifsc/StudentOpportunities/issues)
+or submit a pull request.  You can also reach out via [email](mailto:nmfs.pic.soc@noaa.gov).
 
 ---
 
