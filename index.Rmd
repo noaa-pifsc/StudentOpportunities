@@ -22,9 +22,10 @@ Student Opportunities Committee_
 
 ##### July
 
-* **Hawaiʻi Graduate Program Overview:** Thursday, 3 July, 12-1:30pm, Hybrid, room 1564 and online (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)    
+<!--* **Hawaiʻi Graduate Program Overview:** Thursday, 3 July, 12-1:30pm, Hybrid, room 1564 and online (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)    -->
+
 * **Workshop on Presenting and Public Speaking (for HIGH SCHOOL students):** Thursday, 10 July, 10am-12pm, IRC Auditorium  
-* **Yarn Lei Making for Symposium + Lunchtime Meet and Greet:** Thursday, 10 July, 12-1pm, room 2410 (directly above the IRC main entrance)  
+* **Yarn Lei Making for Symposium + Lunchtime Meet and Greet:** Thursday, 10 July, 12-1:30pm, room 2410 (directly above the IRC main entrance)  
 * **Workshop on Presenting and Public Speaking (for UNDERGRADUATE students):** Thursday, 10 July, 1:30-3:30pm, Hybrid, IRC Auditorium and online (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)  
 * **Tour of the National Weather Service Hawaiʻi Forecast Office:** Tuesday, 15 July, 9:30am-1pm, University of Hawaiʻi at Mānoa (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)  
 * **Hawaiian monk seal mom and pup sighting:** Thursday, 17 July, 8am-12:30pm, (see [calendar](https://calendar.google.com/calendar/u/0?cid=Y18zYzJhOWRmZDc4MjVjNTZmOTdjNWE0ZmI2ZTZhMTY0OWYzZTM1ODMyMmY2NzBmYTExZjI1MWNjNTE4MDlmOGJlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) for details)  
@@ -34,5 +35,3 @@ Student Opportunities Committee_
 
 For questions or to sign up for activities email us at [pifsc.pyso@noaa.gov](mailto:pifsc.pyso@noaa.gov)
 or [create an issue](https://github.com/noaa-pifsc/StudentOpportunities/issues).
-
-test
