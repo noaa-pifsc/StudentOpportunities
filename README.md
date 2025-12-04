@@ -19,7 +19,7 @@ Once you've got RStudio on your computer and interacting with your enterprise
 GitHub account, you're ready to work with the GitHub Page.  Exciting!
 
 The very first step is to connect your computer to this repository (or repo).  You
-only need to do this once.  There are several ways to do this.  Here's one:
+only need to do this once.  There are several ways to do this.  Here's one:  
 Click the green "Code" button above: ![green code button](images/Code.png) and
 copy the URL in the dialogue box that appears.  Now go to RStudio and select:
 File > New Project > Version Control > Git  
