@@ -66,7 +66,8 @@ the dialogue boxes.
 
 For small files, you can commit and push multiple files at once.  For larger files,
 the enterprise GitHub gets cranky and then you have to troubleshoot things which
-is annoying.  To avoid problems, commit and push the HTML file on its own.
+is annoying.  To avoid problems, commit and push the HTML file on its own.  You
+can probably commit the Rmd and xml files together.
 
 Sometimes, when you push a few things in a row GitHub will email you that an action
 was cancelled.  You can safely ignore this message.  
