@@ -37,20 +37,20 @@ Edit the following files to edit the following aspects of the page:
 `index.Rmd` is the main landing page and "Upcoming events" tab in the header  
 `cohorts.Rmd` is the "Cohorts" tab  
 `resources.Rmd` is the "Resources" tab  
-`highlights.Rmd` is the Highlights tab  
+`highlights.Rmd` is the "Highlights" tab  
 
 If you want to add additional tabs, you can create an RMarkdown file (.Rmd) for
 them.  You'll also need to add the tab to the `_site.yml` file following the
 convention of the other page elements.  
 
-Once you've made edits to the Rmarkdown files, click the knit button at the top
+Once you've made edits to the Rmarkdown file(s), click the knit button at the top
 of the editor in RStudio: ![blue ball of yarn with a knitting needle and the word knit](images/Knit.png)  
 This will do three things:  
 1. open a preview of the webpage you edited (handy for double-checking your edit 
 before it goes live)   
 2. create an updated version (or a new version if this the first time you've 
 knit the file) of the synonymous HTML file in the `docs` folder of this repo  
-3. update the `sitemap.xml` file in the `docs` folder.
+3. update the `sitemap.xml` file in the `docs` folder.  
 **You can edit and knit as much as you need without actually changing the GitHub Page.**
 
 To update the GitHub Page you need to push your changes to GitHub.  This moves them
@@ -61,7 +61,8 @@ Git pane you'll notice an M in a blue box next to the file(s) you updated:
 in the box under "Commit message".  This could be something like, "added tour to
 upcoming events".  Click commit below your message.  Close the dialogue box.  Click
 "Pull".  This *pulls* any changes others have made in the repo onto your computer.  Close
-the dialogue box.  Click "Push".  This *pushes* your change into the repo.  
+the dialogue box.  Click "Push".  This *pushes* your change into the repo.  Close 
+the dialogue boxes.
 
 For small files, you can commit and push multiple files at once.  For larger files,
 the enterprise GitHub gets cranky and then you have to troubleshoot things which
