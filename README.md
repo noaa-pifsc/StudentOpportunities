@@ -10,7 +10,7 @@ The easiest way to update the [Student Opportunities GitHub Page](https://noaa-p
 is with RStudio.  RStudio is approved NOAA/NMFS software that is both Windows-
 and Mac-compatible.  
 
-You will also need a PIFSC enterprise GitHub account.  [This site](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/faq)
+You will also need a PIFSC enterprise GitHub account.  [This site](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users)
 (*internal to NOAA*) will help you get set up.  Once you have your account, you'll
 need to connect your GitHub account with RStudio.  The same folks who get you
 your account can help you with this.  
