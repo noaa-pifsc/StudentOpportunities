@@ -11,9 +11,12 @@ is with RStudio.  RStudio is approved NOAA/NMFS software that is both Windows-
 and Mac-compatible.  
 
 You will also need a PIFSC enterprise GitHub account.  [This site](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users)
-(*internal to NOAA*) will help you get set up.  Once you have your account, you'll
-need to connect your GitHub account with RStudio.  The same folks who get you
-your account can help you with this.  
+(*internal to NOAA*) will help you get set up if you're familiar with git.  If
+you're new to git or are looking for a bit more detail, start [here](https://nmfs-opensci.github.io/GitHub-Guide/). 
+Once you have your account, you'll need to connect your GitHub account with 
+RStudio.  The same folks who get you your account can help you with this and 
+[this site](https://nmfs-opensci.github.io/ResourceBook/content/github/authenticating.html)
+walks you through the process.
 
 Once you've got RStudio on your computer and interacting with your enterprise 
 GitHub account, you're ready to work with the GitHub Page.  Exciting!
