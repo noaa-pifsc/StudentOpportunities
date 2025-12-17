@@ -6,11 +6,15 @@ or submit a pull request.  You can also reach out via [email](mailto:nmfs.pic.so
 ---
 
 ## For Committee Members
-The easiest way to update the [Student Opportunities GitHub Page](https://noaa-pifsc.github.io/StudentOpportunities/)
+Please be patient with the process. You only have to do it once, but it is 
+cumbersome. Once it's done, it's done.  If you have issues, reach out to the SOC
+for assistance. Be patient there too. The easiest way to update the 
+[Student Opportunities GitHub Page](https://noaa-pifsc.github.io/StudentOpportunities/)
 is with RStudio.  RStudio is approved NOAA/NMFS software that is both Windows-
 and Mac-compatible.  
 
-You will also need a PIFSC enterprise GitHub account.  [This site](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users)
+You will also need a PIFSC enterprise GitHub account.  
+[This site](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users)
 (*internal to NOAA*) will help you get set up if you're familiar with git.  If
 you're new to git or are looking for a bit more detail, start [here](https://nmfs-opensci.github.io/GitHub-Guide/). 
 Once you have your account, you'll need to connect your GitHub account with 
